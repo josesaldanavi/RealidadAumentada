@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="Reloj" version="3.0" targetId="877bac92689b46b6971b5049f0570f63" sideLength="4.000000" topDiameter="6.370000" bottomDiameter="6.370000" sideImage="Reloj.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
